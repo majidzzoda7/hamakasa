@@ -1,0 +1,13 @@
+.sec_1{
+    background-image: url(./bg\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 450%;
+}
+
+.bjil{
+    background: linear-gradient(#7D8DD0, #2DBDC4);
+}
+
+.ql{
+    background: linear-gradient(#0074B8, #02B4C6);
+}
